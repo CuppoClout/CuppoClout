@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @CuppoClout
+- 👀 I’m interested in artificial intelligence as well as game development
+- 🌱 I’m currently learning computer science and artificial intelligence 
